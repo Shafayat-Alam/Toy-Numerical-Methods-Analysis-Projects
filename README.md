@@ -1,3 +1,5 @@
 # Toy-Numerical-Methods-Analysis-Projects
 
-Simple reliminary numerical methods/analysis projects that enabled research interests in numerical methods/analysis. 
+Simple preliminary numerical methods/analysis projects that enabled research interests in numerical methods/analysis. 
+
+*Note the Newton-Raphson implementation is incorrect because the system of equation formulation is wrong. 
